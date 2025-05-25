@@ -68,13 +68,15 @@ This project demonstrates a **production-style 3-tier architecture** on AWS usin
 ### 🔹 Upload Directory + Permissions
 ![Uploads Directory](./forms.png)![chamod 777](https://github.com/user-attachments/assets/1970a73e-b9a2-4b51-969a-1937fc17b9c6)
 
+### 🔹 S3 Bucket View
+![s3](https://github.com/user-attachments/assets/4f416809-2900-4fd1-9549-de2e8ed399aa)
 
 ### 🔹 Database (RDS) Result
-![RDS Data](./dbshell.png)
+![RDS Data](./dbshell.png![dbshell](https://github.com/user-attachments/assets/b3dc50e3-0477-4998-b46b-d9d6045d6f7b)
 
-### 🔹 S3 Bucket View
-![S3 Upload](./s3.png)![dbshell](https://github.com/user-attachments/assets/b3dc50e3-0477-4998-b46b-d9d6045d6f7b)
-![s3](https://github.com/user-attachments/assets/4f416809-2900-4fd1-9549-de2e8ed399aa)
+![forms](https://github.com/user-attachments/assets/56b50fe0-771d-4e64-8535-c5bb7afe7d21)
+
+![image upload](https://github.com/user-attachments/assets/c0b9e961-d541-4d55-b41a-9f6de7aea5cb)
 
 ---
 
